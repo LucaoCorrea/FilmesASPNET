@@ -1,0 +1,23 @@
+﻿[
+  {
+    "Numero": 1,
+    "Nome": "O Show de Truman",
+    "Descricao": "Truman Burbank é um pacato vendedor de seguros que leva uma vida simples com sua esposa Meryl Burbank. Porém, algumas coisas ao seu redor fazem com que ele passe a estranhar sua cidade, seus supostos amigos e até sua mulher. Após conhecer a misteriosa Lauren, ele fica intrigado e acaba descobrindo que toda sua vida foi monitorada por câmeras e transmitida em rede nacional." ,
+    "Tipo": [ "Drama", "Ficção científica"  ] ,
+    "Imagem": "\\img\\filmes\\001.png"
+  },
+  {
+    "Numero": 2,
+    "Nome": "Interestelar",
+    "Descricao": "As reservas naturais da Terra estão chegando ao fim e um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos. Ao lado de Brand, Jenkins e Doyle, ele seguirá em busca de um novo lar." ,
+    "Tipo": [ "Ficção científica", "Aventura" ],
+    "Imagem": "\\img\\filmes\\002.png"
+  },
+  {
+    "Numero": 3,
+    "Nome": "Tudo em Todo o Lugar ao Mesmo Tempo",
+    "Descricao": "Uma ruptura interdimensional bagunça a realidade e uma inesperada heroína precisa usar seus novos poderes para lutar contra os perigos bizarros do multiverso.",
+    "Tipo": [ "Ficção científica", "Aventura" ],
+    "Imagem": "\\img\\filmes\\003.png"
+  }
+]

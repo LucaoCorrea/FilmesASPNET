@@ -1,0 +1,38 @@
+﻿[
+  {
+    "Nome": "Ação",
+    "Cor": "#aaa"
+  },
+  {
+    "Nome": "Terror",
+    "Cor": "#bbb"
+  },
+  {
+    "Nome": "Comédia",
+    "Cor": "#ccc"
+  },
+  {
+    "Nome": "Ficção científica",
+    "Cor": "#ddd"
+  },
+  {
+    "Nome": "Aventura",
+    "Cor":"#eee"
+  },
+  {
+    "Nome": "Mistério",
+    "Cor":"#fff"
+  },
+  {
+    "Nome": "Drama",
+    "Cor": "ggg"
+  },
+  {
+    "Nome": "Romance",
+    "Cor": "hhh"
+  },
+  {
+    "Nome": "Suspense",
+    "Cor": "iii"
+  }
+]
