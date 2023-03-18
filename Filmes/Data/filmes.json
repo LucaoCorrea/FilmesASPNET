@@ -2,22 +2,71 @@
   {
     "Numero": 1,
     "Nome": "O Show de Truman",
-    "Descricao": "Truman Burbank é um pacato vendedor de seguros que leva uma vida simples com sua esposa Meryl Burbank. Porém, algumas coisas ao seu redor fazem com que ele passe a estranhar sua cidade, seus supostos amigos e até sua mulher. Após conhecer a misteriosa Lauren, ele fica intrigado e acaba descobrindo que toda sua vida foi monitorada por câmeras e transmitida em rede nacional." ,
-    "Tipo": [ "Drama", "Ficção científica"  ] ,
+    "Descricao": "Truman Burbank é um pacato vendedor de seguros que leva uma vida simples com sua esposa Meryl Burbank. Porém, algumas coisas ao seu redor fazem com que ele passe a estranhar sua cidade, seus supostos amigos e até sua mulher. Após conhecer a misteriosa Lauren, ele fica intrigado e acaba descobrindo que toda sua vida foi monitorada por câmeras e transmitida em rede nacional.",
+    "Tipo": ["Drama", "Ficção científica"],
     "Imagem": "\\img\\filmes\\001.png"
   },
   {
     "Numero": 2,
     "Nome": "Interestelar",
-    "Descricao": "As reservas naturais da Terra estão chegando ao fim e um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos. Ao lado de Brand, Jenkins e Doyle, ele seguirá em busca de um novo lar." ,
-    "Tipo": [ "Ficção científica", "Aventura" ],
+    "Descricao": "As reservas naturais da Terra estão chegando ao fim e um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos. Ao lado de Brand, Jenkins e Doyle, ele seguirá em busca de um novo lar.",
+    "Tipo": ["Ficção científica", "Aventura"],
     "Imagem": "\\img\\filmes\\002.png"
   },
   {
     "Numero": 3,
     "Nome": "Tudo em Todo o Lugar ao Mesmo Tempo",
     "Descricao": "Uma ruptura interdimensional bagunça a realidade e uma inesperada heroína precisa usar seus novos poderes para lutar contra os perigos bizarros do multiverso.",
-    "Tipo": [ "Ficção científica", "Aventura" ],
+    "Tipo": ["Ficção científica", "Aventura"],
     "Imagem": "\\img\\filmes\\003.png"
+  },
+  {
+    "Numero": 4,
+    "Nome": "O Poderoso Chefão",
+    "Descricao": "Uma família mafiosa luta para estabelecer sua supremacia nos Estados Unidos depois da Segunda Guerra Mundial. Uma tentativa de assassinato deixa o chefão Vito Corleone incapacitado e força os filhos Michael e Sonny a assumir os negócios.",
+    "Tipo": ["Drama", "Crime"],
+    "Imagem": "\\img\\filmes\\004.png"
+  },
+  {
+    "Numero": 5,
+    "Nome": "A Vida é Bela",
+    "Descricao": "Durante a Segunda Guerra Mundial na Itália, o judeu Guido e seu filho Giosué são levados para um campo de concentração nazista. Afastado da mulher, ele precisa usar sua imaginação para fazer o menino acreditar que estão participando de uma grande brincadeira, com o intuito de protegê-lo do terror e da violência ao redor.",
+    "Tipo": ["Drama", "Comédia"],
+    "Imagem": "\\img\\filmes\\005.png"
+  },
+  {
+    "Numero": 6,
+    "Nome": "Rocky: Um Lutador",
+    "Descricao": "Rocky Balboa, um pequeno boxeador da classe trabalhadora da Filadélfia, é arbitrariamente escolhido para lutar contra o campeão dos pesos pesados, Apollo Creed, quando o adversário do invicto lutador agendado para a luta é ferido. Durante o treinamento com o mal-humorado Mickey Goldmill, Rocky timidamente começa um relacionamento com Adrian, a invisível irmã de Paulie, seu amigo empacotador de carne.",
+    "Tipo": ["Drama", "Luta"],
+    "Imagem": "\\img\\filmes\\006.png"
+  },
+  {
+    "Numero": 7,
+    "Nome": "Karatê Kid - A Hora da Verdade",
+    "Descricao": "O adolescente Daniel LaRusso se envolve com a ex-namorada do valentão da escola e começa a ser atormentado por sua gangue. Para sua sorte, ele conta com os ensinamentos do senhor Miyagi, um mestre de karatê que o prepara para autodefesa e também para um importante campeonato.",
+    "Tipo": ["Drama", "Luta"],
+    "Imagem": "\\img\\filmes\\007.png"
+  },
+  {
+    "Numero": 8,
+    "Nome": "Coach Carter - Treino para a Vida",
+    "Descricao": "Em 1999, Ken Carter retorna para sua antiga escola em Richmond, Califórnia, aceitando se tornar o treinador do time de basquete para colocá-lo em forma. Com muita disciplina e regras duras, ele consegue fazer a equipe vencer. Mas quando as notas dos jogadores começam a baixar, Carter fecha o ginásio e interrompe o campeonato. O treinador é criticado pelos jogadores e seus pais, mas está determinado a fazer com que os jovens sejam vencedores tanto na escola quanto na quadra.",
+    "Tipo": ["Drama", "Esporte"],
+    "Imagem": "\\img\\filmes\\008.png"
+  },
+  {
+    "Numero": 9,
+    "Nome": "Homem-Aranha",
+    "Descricao": "Depois de ser picado por uma aranha geneticamente modificada em uma demonstração científica, o jovem nerd Peter Parker ganha superpoderes. Inicialmente, ele pretende usá-los para para ganhar dinheiro, adotando o nome de Homem-Aranha e se apresentando em lutas de exibição. Porém, ao presenciar o assassinando de seu tio Ben e sentir-se culpado, Peter decide não mais usar seus poderes para proveito próprio e sim para enfrentar o mal, tendo como seu primeiro grande desafio o psicótico Duende Verde.",
+    "Tipo": ["Drama", "Luta", "Super-Herói"],
+    "Imagem": "\\img\\filmes\\009.png"
+  },
+  {
+    "Numero": 10,
+    "Nome": "O Homem de Aço",
+    "Descricao": "Com a iminente destruição de Krypton, seu planeta natal, Jor-El e sua mulher procuram preservar a raça enviando o filho recém-nascido para a Terra. A nave espacial da criança aterrissa na fazenda de Jonathan e Martha Kent, que o batizam de Clark e o criam como seu próprio filho. Apesar das habilidades extraordinárias levarem o Clark adulto a viver à margem da sociedade, ele precisa se tornar um herói para salvar aqueles que ama de uma terrível ameaça.",
+    "Tipo": ["Drama", "Luta", "Super-Herói", "Crime"],
+    "Imagem": "\\img\\filmes\\010.png"
   }
 ]

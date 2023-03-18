@@ -12,6 +12,10 @@
     "Cor": "#ccc"
   },
   {
+    "Nome": "Crime",
+    "Cor": "#ccdc"
+  },
+  {
     "Nome": "Ficção científica",
     "Cor": "#ddd"
   },
@@ -24,15 +28,27 @@
     "Cor":"#fff"
   },
   {
+    "Nome": "Super-Herói",
+    "Cor":"#ffff"
+  },
+  {
     "Nome": "Drama",
-    "Cor": "ggg"
+    "Cor": "#ggg"
   },
   {
     "Nome": "Romance",
-    "Cor": "hhh"
+    "Cor": "#hhh"
+  },
+  {
+    "Nome": "Esporte",
+    "Cor": "#aaas"
+  },
+  {
+    "Nome": "Luta",
+    "Cor": "#hhh"
   },
   {
     "Nome": "Suspense",
-    "Cor": "iii"
+    "Cor": "#iii"
   }
 ]
