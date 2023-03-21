@@ -1,9 +1,5 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Movies.Models;
-using JsonSerializer;
+using System.Text.Json;
 
 namespace Movies.Services;
 

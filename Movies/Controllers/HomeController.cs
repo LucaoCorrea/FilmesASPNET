@@ -2,7 +2,9 @@
 using Microsoft.AspNetCore.Mvc;
 using Movies.Models;
 using Movies.Services;
+
 namespace Movies.Controllers;
+
 public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;

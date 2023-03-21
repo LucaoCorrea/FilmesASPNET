@@ -5,7 +5,7 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddSession();
 builder.Services.AddHttpContextAccessor();
-builder.Services.AddSingleton<IPokeService, PokeService>();
+builder.Services.AddSingleton<IFilmeService, FilmeService>();
 
 var app = builder.Build();// Configure the HTTP request pipeline.
 

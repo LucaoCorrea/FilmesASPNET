@@ -29,7 +29,7 @@ btn-filter" onclick="filter('@tipo.Nome.ToLower()')" style="background-color:@ti
             {
                 <div class="col">
                     <div class="card shadow-sm cursor-pointer @string.Join(' ',
-pokemon.Tipo).ToLower()" onclick="GetInfo(@filme.Numero)">
+filme.Tipo).ToLower()" onclick="GetInfo(@filme.Numero)">
                         <img src="@filme.Imagem" class="card-img-top" width="100%" height="300" alt="@filme.Nome" />
                         <div class="card-body">
                             <p class="card-text mb-0">Nº @filme.Numero.ToString("000")</p>
