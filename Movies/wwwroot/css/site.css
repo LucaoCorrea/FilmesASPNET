@@ -2,10 +2,14 @@
     background-color: lightgray;
 }
 
+.card{
+    height: 100%;
+}
+
 .card:hover {
-    border: 3px solid red;
+    border: 5px solid red;
     transform: scale(1.15);
-    transition: 1s;
+    transition: 1.5s;
     z-index: 1000;
 }
 

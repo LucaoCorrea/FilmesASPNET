@@ -3,28 +3,28 @@
     "Numero": 1,
     "Nome": "O Show de Truman",
     "Descricao": "Truman Burbank é um pacato vendedor de seguros que leva uma vida simples com sua esposa Meryl Burbank. Porém, algumas coisas ao seu redor fazem com que ele passe a estranhar sua cidade, seus supostos amigos e até sua mulher. Após conhecer a misteriosa Lauren, ele fica intrigado e acaba descobrindo que toda sua vida foi monitorada por câmeras e transmitida em rede nacional.",
-    "Tipo": ["Drama", "Ficção científica"],
+    "Tipo": ["Drama", "Ficção-Científica"],
     "Imagem": "\\img\\filmes\\001.png"
   },
   {
     "Numero": 2,
     "Nome": "Interestelar",
     "Descricao": "As reservas naturais da Terra estão chegando ao fim e um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos. Ao lado de Brand, Jenkins e Doyle, ele seguirá em busca de um novo lar.",
-    "Tipo": ["Ficção científica", "Aventura"],
+    "Tipo": ["Ficção-Científica", "Aventura"],
     "Imagem": "\\img\\filmes\\002.png"
   },
   {
     "Numero": 3,
     "Nome": "Tudo em Todo o Lugar ao Mesmo Tempo",
     "Descricao": "Uma ruptura interdimensional bagunça a realidade e uma inesperada heroína precisa usar seus novos poderes para lutar contra os perigos bizarros do multiverso.",
-    "Tipo": ["Ficção científica", "Aventura"],
+    "Tipo": ["Ficção-Científica", "Aventura"],
     "Imagem": "\\img\\filmes\\003.png"
   },
   {
     "Numero": 4,
     "Nome": "O Poderoso Chefão",
     "Descricao": "Uma família mafiosa luta para estabelecer sua supremacia nos Estados Unidos depois da Segunda Guerra Mundial. Uma tentativa de assassinato deixa o chefão Vito Corleone incapacitado e força os filhos Michael e Sonny a assumir os negócios.",
-    "Tipo": ["Drama", "Crime"],
+    "Tipo": ["Drama", "Crime", "Ação"],
     "Imagem": "\\img\\filmes\\004.png"
   },
   {
@@ -45,7 +45,7 @@
     "Numero": 7,
     "Nome": "Karatê Kid - A Hora da Verdade",
     "Descricao": "O adolescente Daniel LaRusso se envolve com a ex-namorada do valentão da escola e começa a ser atormentado por sua gangue. Para sua sorte, ele conta com os ensinamentos do senhor Miyagi, um mestre de karatê que o prepara para autodefesa e também para um importante campeonato.",
-    "Tipo": ["Drama", "Luta"],
+    "Tipo": ["Drama", "Luta", "Suspense"],
     "Imagem": "\\img\\filmes\\007.png"
   },
   {
