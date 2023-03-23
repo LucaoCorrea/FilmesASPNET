@@ -15,19 +15,21 @@
 
 <body>
     <header>
-        <div class="collapse bg-black" id="navbarHeader">
+       <div class="collapse bg-black" id="navbarHeader">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-8 col-md-7 py-4">
                         <h4 class="text-white">Sobre</h4>
                         <p class="text-white">
-                            Projeto desenvolvido para demonstrar a criação de páginas WEB com
-                            Net 6.0.
-                            Demonstrar a criação de aplicações com padrão MVC e leitura de
-                            arquivos JSON,
-                            além de boas práticas de Programação Orientada a Objetos, Páginas
-                            Dinâmicas e Uso de Sessão.
+                            Projeto desenvolvido para demonstrar a criação de páginas WEB com Net 6.0.
+                            Demonstrar a criação de aplicações com padrão MVC e leitura de arquivos JSON,
+                            além de boas práticas de Programação Orientada a Objetos, Páginas Dinâmicas e Uso de Sessão.
                         </p>
+                        
+                        <img src="~/img/avatar.png" width="100px" alt="Gallo">
+                        <p class="text-white"> Para quem não sabe, esse é o nosso querido professor: José Gallo</p>
+                   
+                        
                     </div>
                     <div class="col-sm-4 offset-md-1 py-4">
                         <h4 class="text-white">Contatos</h4>
@@ -46,10 +48,10 @@
                     <img src="~/img/favicons/iconMovies2.png" height="50px" width="50px" alt="Favicon" class="me-2" />
                     &nbsp;<strong>MOVIES</strong>
                 </a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" databs-target="#navbarHeader"
-                    aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle
-navigation">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarHeader"
+                    aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
+                </button>
                 </button>
             </div>
         </div>
@@ -57,7 +59,8 @@ navigation">
     <main>
         @RenderBody()
     </main>
-    <footer class="text-muted py-3 ">
+    <br><br><br>
+    <footer class="text-muted py-3 bg-black text-white">
         <div class="container">
             <p class="float-end">
                 <a href="#">
