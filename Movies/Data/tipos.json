@@ -1,54 +1,54 @@
 ﻿[
   {
     "Nome": "Ação",
-    "Cor": "#adadad"
+    "Cor": "#191970"
   },
   {
     "Nome": "Terror",
-    "Cor": "#828282"
+    "Cor": "#6495ED"
   },
   {
     "Nome": "Comédia",
-    "Cor": "#575757"
+    "Cor": "#0000CD"
   },
   {
     "Nome": "Crime",
-    "Cor": "#3d3d3d"
+    "Cor": "#00BFFF"
   },
   {
     "Nome": "Ficção-Científica",
-    "Cor": "#2b2b2b"
+    "Cor": "#00CED1"
   },
   {
     "Nome": "Aventura",
-    "Cor":"#1f1f1f"
+    "Cor":"#00FFFF"
   },
   {
     "Nome": "Mistério",
-    "Cor":"#adadad"
+    "Cor":"#20B2AA"
   },
   {
     "Nome": "Super-Herói",
-    "Cor":"#828282"
+    "Cor":"#00FA9A"
   },
   {
     "Nome": "Drama",
-    "Cor": "#575757"
+    "Cor": "#228B22"
   },
   {
     "Nome": "Romance",
-    "Cor": "#3d3d3d"
+    "Cor": "#FFFF00"
   },
   {
     "Nome": "Esporte",
-    "Cor": "#2b2b2b"
+    "Cor": "#CD853F"
   },
   {
     "Nome": "Luta",
-    "Cor": "#1f1f1f"
+    "Cor": "#A52A2A"
   },
   {
     "Nome": "Suspense",
-    "Cor": "#adadad"
+    "Cor": "#9370DB"
   }
 ]
